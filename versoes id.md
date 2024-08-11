@@ -1,4 +1,4 @@
-versoes desse projeto desde a primeira ate a ultima e so vai mostra o 6 primeiros dijitos
+versoes desse projeto desde a primeira ate a ultima e so vai mostra o 6 primeiros dijitos.
 
 branch: master/main{
 
@@ -16,7 +16,7 @@ branch: master/main{
 
 7 f9a5d3
 
-8 
+8 ae76ab
 
 9 
 
