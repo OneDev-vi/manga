@@ -80,12 +80,12 @@ merges "isso vai mostar todos o merges feito"{
 }
 
 # git branch funcao{
-    
+# ma
 # 1 7f59239
 
 # 2 121ebf
 
-# 3 
+# 3 a29840
 
 # 4 
 
