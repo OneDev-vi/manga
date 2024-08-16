@@ -10,3 +10,5 @@ if (a > b):
 else:
     if (a < b):
         print ("A é menor que B")
+
+print ("nova função")
