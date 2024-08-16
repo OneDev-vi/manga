@@ -44,7 +44,7 @@ branch: master/main{
 
 21 ae117a
 
-22 
+22 7f59239
 
 23 
 
@@ -79,3 +79,16 @@ merges "isso vai mostar todos o merges feito"{
 
 }
 
+# git branch funcao{
+    
+# 1 7f59239
+
+# 2 
+
+# 3 
+
+# 4 
+
+# 5 
+
+}
